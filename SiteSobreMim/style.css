@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(171, 236, 127);
+    
+}
+
+
+h1{
+    color: red;
+    
+    font-style: italic;
+    text-align: justify;
+
+}
+
+.foto{
+   
+    margin: 25px 25px 25px 250px;
+    text-align: center;
+    background-color: blue;
+    padding: 40px;
+    border-radius: 50px;
+}
+.foto2{
+   
+    margin: 25px;
+    text-align: center;
+    background-color: red;
+    padding: 40px;
+    border-style: solid;
+}
+
+.fotosenhor{
+    width: 100px;
+    height: 100px;
+}
+.fotoprincipe{
+    width: 100px;
+    height: 100px;
+}
+
+h4{
+   
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    font-style: italic;
+    background-color: aquamarine;
+}
+
+#video{
+    
+    margin-left: 250px;
+    margin-top: 25px;
+    border-radius: 40px;
+    
+}
+#video2{
+    
+    margin-left: 20px;
+    margin-top: 25px;
+    border-color: black;
+    }
+
+
+#paragra_1{
+    color: green;
+    font-size: 25px;
+    font-family:cursive;  
+    text-align: center;
+    }
+
+.classe_1{
+    color: rgb(129, 20, 156);
+    font-size: 50px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.classe_h4{
+    color: gold;
+    background-color: chocolate;
+
+}
+
+.classe_h3{
+    color: gold;
+    background-color: chocolate;
+
+}
+#lista1{
+    color: rgb(90, 36, 236);
+}
+
+table, th, td{
+    
+    background-color: rgb(119, 152, 182);
+    margin-left: 200px;
+    border: 1px solid black;
+}
+ul,li{
+    align-items: center;
+   font-style: italic;
+   font-size: 18px;
+   font-family: cursive;
+   color: crimson;
+
+}
+p{
+    color: green;
+}
+
+a{
+    color: red;
+}
